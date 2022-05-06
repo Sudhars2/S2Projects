@@ -1,3 +1,8 @@
+
+`THE SOLUTIONS FOR TEST BELOW CAN BE FOUND IN THE MAIN FOLDER. KINDLY READ THE README.MD INSTRUCTIONS CAREFULLY TO RUN THE APPLICATION`
+
+
+
 # Platform Developer Test
 
 The team SRE Platform has created a Kubernetes cluster and the first few services have been deployed to it. Now it is
